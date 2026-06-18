@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Application
 
 A full-stack e-commerce application built with **Flutter** (frontend), **Node.js/Express** (backend), and **MongoDB** (database).
@@ -328,3 +329,6 @@ For issues or contributions, please create an issue or pull request.
 ## License
 
 MIT License - feel free to use for personal and commercial projects.
+=======
+# E-commerce-app
+>>>>>>> e2ddf8cc181dbb4cebdc609eb7472d2c90987c7c
